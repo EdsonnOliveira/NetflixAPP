@@ -1,0 +1,14 @@
+FONTS
+	Sebino
+	SONGER
+
+IMPORT
+	import { Ionicons, MaterialIcons, Feather } from '@expo/vector-icons';
+	<Ionicons name='add' size={38} color={'#FFF'} />
+	<Ionicons name='play-sharp' size={27} color={'#000'}/>
+	<Ionicons name='information-circle-outline' size={27} color={'#FFF'} style={{marginVertical: 7}} />
+	
+	<Ionicons name='home-outline' size={28} color='#FFF' />
+	<MaterialIcons name='video-collection' size={28} color='#FFF' />
+	<Feather name='search' size={28} color='#FFF' />
+	<Feather name='download' size={28} color='#FFF' />
